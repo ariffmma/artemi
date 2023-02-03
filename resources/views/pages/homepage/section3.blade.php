@@ -6,14 +6,8 @@
                 <h2 class="mb-4">Featured Products</h2>
             </div>
             <div class="col-md-8 pl-md-5 heading-section ftco-animate">
-                
-                <div class="pl-md-4 border-line ">
-                    
+                <div class="pl-md-4 border-line ">  
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                    
-                    
-                            
-                    
                     <div class="category mt-5 gallery-filter">
                         <span class="filter-item active mr-2" data-filter="all">All Product</span>
                         <span class="filter-item mr-2" data-filter="product-a">Product A</span>

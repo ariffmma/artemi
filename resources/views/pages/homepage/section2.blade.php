@@ -12,7 +12,7 @@
         <div class="slider-top h-50 js-fullheight owl-carousel bg-light">
             <div class="ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');"></a>
+                    <a href="/single" class="block-20" style="background-image: url('images/image_1.jpg');"></a>
                     <div class="text d-flex py-4">
                         <div class="meta mb-3">
                             <div>
@@ -36,7 +36,7 @@
             </div>
             <div class="ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');"></a>
+                    <a href="/single" class="block-20" style="background-image: url('images/image_1.jpg');"></a>
                     <div class="text d-flex py-4">
                         <div class="meta mb-3">
                             <div>
@@ -60,7 +60,7 @@
             </div>
             <div class="ftco-animate">
                 <div class="blog-entry" data-aos-delay="100">
-                    <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');"></a>
+                    <a href="/single" class="block-20" style="background-image: url('images/image_2.jpg');"></a>
                     <div class="text d-flex py-4">
                         <div class="meta mb-3">
                             <div>
@@ -84,7 +84,7 @@
             </div>
             <div class="ftco-animate">
                 <div class="blog-entry" data-aos-delay="200">
-                    <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');"></a>
+                    <a href="/single" class="block-20" style="background-image: url('images/image_3.jpg');"></a>
                     <div class="text d-flex py-4">
                         <div class="meta mb-3">
                             <div>

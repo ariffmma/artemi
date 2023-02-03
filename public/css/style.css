@@ -1,10 +1,7 @@
-@font-face {
-	font-family: 'robotoartemi';
-	src: url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-}
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap"); 
 
 :root {
-	--my-font: 'robotoartemi', sans-serif;
+	--my-font: 'Roboto', sans-serif;
 	--blue: #007bff;
 	--indigo: #6610f2;
 	--purple: #6f42c1;
@@ -11519,13 +11516,13 @@ a {
 	-webkit-transition: .3s all ease;
 	-o-transition: .3s all ease;
 	transition: .3s all ease;
-	color: #0033c7;
+	color: #000;
 }
 
 a:hover,
 a:focus {
 	text-decoration: none;
-	color: #0033c7;
+	color: #a1a1a1;
 	outline: none !important;
 }
 
@@ -11823,7 +11820,7 @@ h5,
 	bottom: 0;
 	content: '';
 	opacity: .8;
-	background: #0033c7;
+	background: #0000009c;
 }
 
 .hero-wrap.hero-wrap-2 {
@@ -12651,7 +12648,7 @@ h5,
 .blog-entry .text .heading a:hover,
 .blog-entry .text .heading a:focus,
 .blog-entry .text .heading a:active {
-	color: #0033c7;
+	color: #a1a1a1;
 }
 
 .blog-entry .text .meta-chat {
@@ -13469,7 +13466,7 @@ textarea.form-control {
 .block-21 .text .heading a:hover,
 .block-21 .text .heading a:active,
 .block-21 .text .heading a:focus {
-	color: #0033c7;
+	color: #a1a1a1;
 }
 
 .block-21 .text .meta>div {

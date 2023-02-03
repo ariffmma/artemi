@@ -16,7 +16,6 @@
 				  </div>
 			  </div>
 			</div>
-	  
 			<div class="slider-item js-fullheight">
 				<div class="overlay"></div>
 			  <div class="container">
