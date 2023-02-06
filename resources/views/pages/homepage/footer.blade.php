@@ -29,23 +29,23 @@
                     <h2 class="ftco-heading-2">Links</h2>
                     <ul class="list-unstyled">
                         <li>
-                            <a href="#">
+                            <a href="/news">
                                 <span class="icon-long-arrow-right mr-2"></span>News </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="/single">
                                 <span class="icon-long-arrow-right mr-2"></span>About </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="/about">
                                 <span class="icon-long-arrow-right mr-2"></span>Products </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="/product">
                                 <span class="icon-long-arrow-right mr-2"></span>Showcase </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="/contact">
                                 <span class="icon-long-arrow-right mr-2"></span>Contact </a>
                         </li>
                     </ul>
@@ -72,8 +72,8 @@
                                 <span class="icon-long-arrow-right mr-2"></span>Lighting Design </a>
                         </li>
                         <li>
-                            <a href="#">
-                                <span class="icon-long-arrow-right mr-2"></span>AutoCAD Service </a>
+                            <a href="/privacy">
+                                <span class="icon-long-arrow-right mr-2"></span>Privacy Policy</a>
                         </li>
                     </ul>
                 </div>

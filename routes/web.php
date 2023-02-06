@@ -23,3 +23,6 @@ Route::get('/showcase', function () {
 Route::get('/contact', function () {
     return view('pages.contact');
 });
+Route::get('/privacy', function () {
+    return view('pages.privacy');
+});

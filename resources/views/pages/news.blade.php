@@ -20,13 +20,13 @@
                 <div class="row">
                     <div class="col-md-6 ftco-animate">
                         <div class="blog-entry">
-                        <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+                        <a href="/single" class="block-20" style="background-image: url('images/image_1.jpg');">
                         </a>
                         <div class="text d-flex py-4">
                             <div class="meta mb-3">
-                            <div><a href="#">Jan. 20, 2019</a></div>
+                            <div><a href="/single">Jan. 20, 2019</a></div>
                             <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="/single" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                             </div>
                             <div class="desc pl-3">
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -36,13 +36,13 @@
                     </div>
                     <div class="col-md-6 ftco-animate">
                         <div class="blog-entry" data-aos-delay="100">
-                        <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+                        <a href="/single" class="block-20" style="background-image: url('images/image_2.jpg');">
                         </a>
                         <div class="text d-flex py-4">
                             <div class="meta mb-3">
-                            <div><a href="#">Jan. 20, 2019</a></div>
+                            <div><a href="/single">Jan. 20, 2019</a></div>
                             <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="/single" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                             </div>
                             <div class="desc pl-3">
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -52,13 +52,13 @@
                     </div>
                     <div class="col-md-6 ftco-animate">
                         <div class="blog-entry" data-aos-delay="200">
-                        <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+                        <a href="/single" class="block-20" style="background-image: url('images/image_3.jpg');">
                         </a>
                         <div class="text d-flex py-4">
                             <div class="meta mb-3">
-                            <div><a href="#">Jan. 20, 2019</a></div>
+                            <div><a href="/single">Jan. 20, 2019</a></div>
                             <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="/single" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                             </div>
                             <div class="desc pl-3">
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -68,13 +68,13 @@
                     </div>
                     <div class="col-md-6 ftco-animate">
                         <div class="blog-entry">
-                        <a href="blog-single.html" class="block-20" style="background-image: url('images/image_4.jpg');">
+                        <a href="/single" class="block-20" style="background-image: url('images/image_4.jpg');">
                         </a>
                         <div class="text d-flex py-4">
                             <div class="meta mb-3">
-                            <div><a href="#">Jan. 20, 2019</a></div>
+                            <div><a href="/single">Jan. 20, 2019</a></div>
                             <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="/single" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                             </div>
                             <div class="desc pl-3">
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -84,13 +84,13 @@
                     </div>
                     <div class="col-md-6 ftco-animate">
                         <div class="blog-entry" data-aos-delay="100">
-                        <a href="blog-single.html" class="block-20" style="background-image: url('images/image_5.jpg');">
+                        <a href="/single" class="block-20" style="background-image: url('images/image_5.jpg');">
                         </a>
                         <div class="text d-flex py-4">
                             <div class="meta mb-3">
-                            <div><a href="#">Jan. 20, 2019</a></div>
+                            <div><a href="/single">Jan. 20, 2019</a></div>
                             <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="/single" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                             </div>
                             <div class="desc pl-3">
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -100,13 +100,13 @@
                     </div>
                     <div class="col-md-6 ftco-animate">
                         <div class="blog-entry" data-aos-delay="200">
-                        <a href="blog-single.html" class="block-20" style="background-image: url('images/image_6.jpg');">
+                        <a href="/single" class="block-20" style="background-image: url('images/image_6.jpg');">
                         </a>
                         <div class="text d-flex py-4">
                             <div class="meta mb-3">
-                            <div><a href="#">Jan. 20, 2019</a></div>
+                            <div><a href="/single">Jan. 20, 2019</a></div>
                             <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="/single" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                             </div>
                             <div class="desc pl-3">
                                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>

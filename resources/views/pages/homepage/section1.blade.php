@@ -10,7 +10,7 @@
 						<div class="text">
 						  <h1 class="mb-4">We Love <br>Modern Designs</h1>
 						  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-						  <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
+						  <p><a href="/single" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
 					  </div>
 					</div>
 				  </div>
@@ -27,7 +27,7 @@
 						<div class="text">
 						  <h1 class="mb-4">We Create Amazing Architecture Designs</h1>
 						  <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-						  <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
+						  <p><a href="/single" class="btn btn-primary px-4 py-3 mt-3">View our works</a></p>
 					  </div>
 					</div>
 				  </div>

@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light pt-3 pb-3" id="ftco-navbar">
 	<div class="container">
 		<a href="/" class="navbar-brand">
 			<img src="{{asset('/images/logo/Logo-Artemi.webp')}}" srcset="{{asset('/images/logo/Logo-Artemi@2x.webp 2x')}},{{asset('/images/logo/Logo-Artemi@3x.webp 3x')}}" class="Logo-ARTEMI" width="145">

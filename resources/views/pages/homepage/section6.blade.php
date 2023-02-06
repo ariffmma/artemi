@@ -17,25 +17,25 @@
             <div class="col-md-12">
                 <div class="carousel-client owl-carousel">
                     <div class="item">
-                        <a href="#" class="client text-center p-5"> <img src="{{asset('/images/clients/pca.png')}}"> </a>
+                        <a href="/single" class="client text-center p-5"> <img src="{{asset('/images/clients/pca.png')}}"> </a>
                     </div>
                     <div class="item">
-                        <a href="#" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
+                        <a href="/single" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
                     </div>
                     <div class="item">
-                        <a href="#" class="client text-center p-5"> <img src="{{asset('/images/clients/warema.png')}}"> </a>
+                        <a href="/single" class="client text-center p-5"> <img src="{{asset('/images/clients/warema.png')}}"> </a>
                     </div>
                     <div class="item">
-                        <a href="#" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
+                        <a href="/single" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
                     </div>
                     <div class="item">
-                        <a href="#" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
+                        <a href="/single" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
                     </div>
                     <div class="item">
-                        <a href="#" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
+                        <a href="/single" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
                     </div>
                     <div class="item">
-                        <a href="#" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
+                        <a href="/single" class="client text-center p-5"> <img src="{{asset('/images/clients/technal.png')}}"> </a>
                     </div>
                 </div>
             </div>

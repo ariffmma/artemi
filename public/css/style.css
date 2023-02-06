@@ -12886,9 +12886,9 @@ textarea.form-control {
 }
 
 .ftco-footer .subscribe-form .form-group .submit {
-	color: #fff !important;
+	color: #000 !important;
 	font-size: 16px;
-	background: #0033c7 !important;
+	background: #fff !important;
 	border: none !important;
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
@@ -12897,6 +12897,7 @@ textarea.form-control {
 }
 
 .ftco-footer .subscribe-form .form-group .submit:hover {
+	background: #a1a1a1 !important;
 	cursor: pointer;
 }
 
@@ -12937,6 +12938,7 @@ textarea.form-control {
 }
 
 .ftco-footer-social li a:hover {
+	background: #a1a1a1;
 	color: #fff;
 }
 
