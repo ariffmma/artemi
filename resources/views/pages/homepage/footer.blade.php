@@ -7,19 +7,13 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                         <li class="ftco-animate">
-                            <a href="#">
-                                <span class="icon-twitter"></span>
-                            </a>
+                            <a href="#"><span class="icon-twitter"></span></a>
                         </li>
                         <li class="ftco-animate">
-                            <a href="#">
-                                <span class="icon-facebook"></span>
-                            </a>
+                            <a href="#"><span class="icon-facebook"></span></a>
                         </li>
                         <li class="ftco-animate">
-                            <a href="#">
-                                <span class="icon-instagram"></span>
-                            </a>
+                            <a href="#"><span class="icon-instagram"></span></a>
                         </li>
                     </ul>
                 </div>
@@ -29,24 +23,19 @@
                     <h2 class="ftco-heading-2">Links</h2>
                     <ul class="list-unstyled">
                         <li>
-                            <a href="/news">
-                                <span class="icon-long-arrow-right mr-2"></span>News </a>
+                            <a href="/news"><span class="icon-long-arrow-right mr-2"></span>News </a>
                         </li>
                         <li>
-                            <a href="/single">
-                                <span class="icon-long-arrow-right mr-2"></span>About </a>
+                            <a href="/single"><span class="icon-long-arrow-right mr-2"></span>About </a>
                         </li>
                         <li>
-                            <a href="/about">
-                                <span class="icon-long-arrow-right mr-2"></span>Products </a>
+                            <a href="/about"><span class="icon-long-arrow-right mr-2"></span>Products </a>
                         </li>
                         <li>
-                            <a href="/product">
-                                <span class="icon-long-arrow-right mr-2"></span>Showcase </a>
+                            <a href="/product"><span class="icon-long-arrow-right mr-2"></span>Showcase </a>
                         </li>
                         <li>
-                            <a href="/contact">
-                                <span class="icon-long-arrow-right mr-2"></span>Contact </a>
+                            <a href="/contact"><span class="icon-long-arrow-right mr-2"></span>Contact </a>
                         </li>
                     </ul>
                 </div>
@@ -56,24 +45,19 @@
                     <h2 class="ftco-heading-2">Services</h2>
                     <ul class="list-unstyled">
                         <li>
-                            <a href="#">
-                                <span class="icon-long-arrow-right mr-2"></span>Architectural Design </a>
+                            <a href="#"><span class="icon-long-arrow-right mr-2"></span>Architectural Design </a>
                         </li>
                         <li>
-                            <a href="#">
-                                <span class="icon-long-arrow-right mr-2"></span>Interior Design </a>
+                            <a href="#"><span class="icon-long-arrow-right mr-2"></span>Interior Design </a>
                         </li>
                         <li>
-                            <a href="#">
-                                <span class="icon-long-arrow-right mr-2"></span>Exterior Design </a>
+                            <a href="#"><span class="icon-long-arrow-right mr-2"></span>Exterior Design </a>
                         </li>
                         <li>
-                            <a href="#">
-                                <span class="icon-long-arrow-right mr-2"></span>Lighting Design </a>
+                            <a href="#"><span class="icon-long-arrow-right mr-2"></span>Lighting Design </a>
                         </li>
                         <li>
-                            <a href="/privacy">
-                                <span class="icon-long-arrow-right mr-2"></span>Privacy Policy</a>
+                            <a href="/privacy"><span class="icon-long-arrow-right mr-2"></span>Privacy Policy</a>
                         </li>
                     </ul>
                 </div>

@@ -33,21 +33,12 @@
 		</div>
 		<!-- popup -->
 		<div id="popup">
-			<div class="popup-image"  style="background-image:url('images/popup.jpg');">
-				{{-- <div class="popup-title">Subscribe!</div> --}}
-				{{-- <div class="popup-desc">Keep up with our news update</div> --}}
-			</div>
-			<small>Keep up with our news update</small>
-			<div class="modal-footer justify-content-center text-center">
-				<div class="suscribe-btn py-1">
-					
-					<form action="" method="POST"> @csrf 
-						<input type="email" name="email" class="mailbox" autocomplete="off" placeholder="Email" id="subscribe" required> 
-						<button type="submit" class="submitbox">Subscribe</button> 
-					</form>
-				</div>
-			</div>
+		
 		</div>
+
+
+
+		
 		<script>
 			const filterContainer = document.querySelector(".gallery-filter"),
 			galleryItems = document.querySelectorAll(".gallery-item");
@@ -71,18 +62,11 @@
 			});
 		</script>
 		<script>
-			 $( document ).ready(function() {
-				var now = new Date().getTime();
-            	var dialogShown = localStorage.getItem('dialogShown');
-				if (dialogShown == null) {
-					$(window).scroll(function() {
-                    var now = new Date().getTime();
-                    var dialogShown = localStorage.getItem('dialogShown');
-                    var offset = $(".bingkaiatas ").position().top + $(".bingkaiatas ").outerHeight(true);
-                    if (!dialogShown) {
-                    if ($(window).scrollTop() > offset) {
-                        $('#popup').show();
-						$(document).mouseup(function (e) {
+			$(window).scroll(function() {
+            	var offset = $(".bingkaiatas ").position().top + $(".bingkaiatas ").outerHeight(true);
+            	if ($(window).scrollTop() > offset) {
+					$('#popup').show();
+                	$(document).mouseup(function (e) {
 						var container = $("#popup");
 						if (!container.is(e.target)
 						&& container.has(e.target).length === 0)
@@ -90,15 +74,8 @@
 							container.fadeOut();
 						}
 					});
-                        localStorage.setItem('dialogShown', now)
-                    } else {
-						$('#popup').hide();
-                    }}
-                });
-				}else if(now-dialogShown > 5*1*1000){
-					localStorage.removeItem('dialogShown');
-				}
-			 })
+            	}
+        	});
 		</script>
 		<script src="{{asset('/js/jquery.min.js')}}"></script>
 		<script src="{{asset('/js/jquery-migrate-3.0.1.min.js')}}"></script>

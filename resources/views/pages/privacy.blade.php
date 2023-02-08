@@ -13,6 +13,32 @@
             </div>
         </div>
 </section>
+<div class="container my-5">
+    <div class="row no-gutters ">
+       
+        <div class="col-lg-8">
+            <h5>Lorem</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, doloremque possimus sunt adipisci iusto dignissimos eos harum iste nisi? Debitis ullam amet voluptas doloremque perspiciatis dolor ea beatae atque tempore.</p>
+            <h5>Lorem</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, doloremque possimus sunt adipisci iusto dignissimos eos harum iste nisi? Debitis ullam amet voluptas doloremque perspiciatis dolor ea beatae atque tempore.</p>
+            <h5>Lorem</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, doloremque possimus sunt adipisci iusto dignissimos eos harum iste nisi? Debitis ullam amet voluptas doloremque perspiciatis dolor ea beatae atque tempore.</p>
+            <h5>Lorem</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, doloremque possimus sunt adipisci iusto dignissimos eos harum iste nisi? Debitis ullam amet voluptas doloremque perspiciatis dolor ea beatae atque tempore.</p>
+            <h5>Lorem</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, doloremque possimus sunt adipisci iusto dignissimos eos harum iste nisi? Debitis ullam amet voluptas doloremque perspiciatis dolor ea beatae atque tempore.</p>
+            <h5>Lorem</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, doloremque possimus sunt adipisci iusto dignissimos eos harum iste nisi? Debitis ullam amet voluptas doloremque perspiciatis dolor ea beatae atque tempore.</p>
+            <h5>Lorem</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, doloremque possimus sunt adipisci iusto dignissimos eos harum iste nisi? Debitis ullam amet voluptas doloremque perspiciatis dolor ea beatae atque tempore.</p>
+            <h5>Lorem</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus, doloremque possimus sunt adipisci iusto dignissimos eos harum iste nisi? Debitis ullam amet voluptas doloremque perspiciatis dolor ea beatae atque tempore.</p>
+                      
+        </div>
+        @include('pages.sub-page.sidebar') 
+    </div>
+    
+</div>
 
 
 @endsection

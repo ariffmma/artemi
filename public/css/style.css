@@ -253,10 +253,16 @@ button,
 select,
 optgroup,
 textarea {
-	margin: 0;
-	font-family: inherit;
-	font-size: inherit;
-	line-height: inherit;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 52px;
+    background: #fff !important;
+    color: #000000 !important;
+    font-size: 18px;
+    border-radius: 0px;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 button,
@@ -11609,7 +11615,7 @@ h5,
 		padding-right: 0;
 		padding-top: .9rem;
 		padding-bottom: .9rem;
-		color: rgba(255, 255, 255, 0.7);
+		color: rgba(0, 0, 0, 0.7);
 	}
 
 	.ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover {
